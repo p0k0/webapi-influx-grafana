@@ -1,0 +1,3 @@
+FROM grafana/grafana:5.1.0
+CMD [ "grafanad" ]
+  
